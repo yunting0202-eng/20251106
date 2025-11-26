@@ -1,0 +1,6 @@
+question,option1,option2,option3,option4,correct_answer_index
+p5.js 是基於哪種程式語言的？,Java,Python,JavaScript,C++,2
+在 p5.js 中，哪個函數只會執行一次？,draw(),setup(),loop(),preload(),1
+哪一個函式可以用來改變畫布的背景顏色？,background(),fill(),stroke(),color(),0
+在 p5.js 中，(0-0) 座標代表畫布的哪個位置？,右下角,左上角,中心,右上角,1
+哪一個函式可以用來畫一個圓形？,rect(),ellipse(),circle(),line(),2
